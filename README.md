@@ -10,9 +10,9 @@
 
 ## 👨‍💻 À propos de moi
 
-- 🎮 Je développe la communauté de **AshenFall**, un MMORPG médiéval fantasy dark & immersif.
+- 🎮 Je développe la communauté de **Red-Storm**, un projet ambitieux et immersif.
 - 🧠 J'aime créer des univers complexes, à la croisée du code, du lore et du design.
-- 🚀 Actuellement en train de consolider une communauté autour de se projet.
+- 🚀 Actuellement en train de consolider une communauté autour de ce projet.
 - 🌱 Je me forme en continu à React, TailwindCSS, JavaScript, game design et dev tools.
 - 🛠️ J’utilise **MCreator**, **Java**, **Forge**, **React**, **Figma**, **Canva**, etc.
 
@@ -26,26 +26,23 @@
 
 ## 📦 Mon projet principal
 
-### 🌑 [AshenFall](https://ashenfall.netlify.app/)
-Un MMORPG fantasy sombre, développé avec passion par une équipe de créateurs indépendants.  
+### 🌑 [Red-Storm](https://github.com/MaTimeo12/red-storm)
+Un projet passionnant, développé avec passion par une équipe de créateurs indépendants.  
 > 🎨 Direction artistique semi-stylisée  
 > 🤝 Communauté engagée  
 > ⚙️ Développement transparent & collaboratif  
 
-[![TikTok](https://img.shields.io/badge/TikTok-%40project.ashenfall-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@project.ashenfall?_t=ZN-8yPQ9NXIvcU&_r=1)
-[![Discord](https://img.shields.io/badge/Discord-Rejoindre-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CTdmWQemqx)
+[![GitHub](https://img.shields.io/badge/GitHub-MaTimeo12%2Fred--storm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaTimeo12/red-storm)
 
 ## 📜 Licence
 
 🛑 **Aucune réutilisation, redistribution ou adaptation de mes projets n’est autorisée sans mon accord.**  
-Tout le contenu est réservé aux coopérateurs identifiés sur AshenFall.
+Tout le contenu est réservé aux coopérateurs identifiés sur Red-Storm.
 
 ## 📬 Contact
 
-- TikTok : [@project.ashenfall](https://www.tiktok.com/@project.ashenfall?_t=ZN-8yPQ9NXIvcU&_r=1)
 - TikTok : [@MaTimeo12](https://www.tiktok.com/@matimeo12)
-- Discord : [Rejoindre le serveur](https://discord.gg/CTdmWQemqx)
-- Site : [ashenfall.netlify.app](https://ashenfall.netlify.app/)
+- GitHub : [MaTimeo12/red-storm](https://github.com/MaTimeo12/red-storm)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A4BB8&height=150&section=footer"/>
