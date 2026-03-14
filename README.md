@@ -10,7 +10,7 @@
 
 ## 👨‍💻 À propos de moi
 
-- 🎮 Je développe la communauté de **Red-Storm**, un projet ambitieux et immersif.
+- 🎮 Je développe les mods de **Red-Storm**, un projet ambitieux et immersif sur ArmA Reforger.
 - 🧠 J'aime créer des univers complexes, à la croisée du code, du lore et du design.
 - 🚀 Actuellement en train de consolider une communauté autour de ce projet.
 - 🌱 Je me forme en continu à React, TailwindCSS, JavaScript, game design et dev tools.
